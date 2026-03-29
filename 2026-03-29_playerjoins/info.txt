@@ -1,0 +1,5 @@
+Zandronum 3.3
+GAMEEVENT_PLAYERJOINS seems to have an issue where players that got removed don't automatically join the next map.
+I can't confirm whether or not GAMEEVENT_PLAYERJOINS is actually related to this instance, but I am curious why this is the applied behavior.
+
+Status: Reported

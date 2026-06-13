@@ -1,0 +1,1 @@
+Insert any wads to test in here and the Python script will include it when calling the scripts.
